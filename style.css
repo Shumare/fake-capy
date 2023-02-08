@@ -1,6 +1,9 @@
 img{
     width: 100px;
 }
-@media (min-width: 1200px) {
-     .navbar{display:none;}
-    }
+
+
+.carousel{
+    
+    max-width: 400px;
+}
